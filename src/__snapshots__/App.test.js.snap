@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div>
+    <h1>
+      Github Profile Info:
+    </h1>
+    <h2 />
+    <a
+      href=""
+    >
+      <button>
+        Link to GitHub profile
+      </button>
+    </a>
+    <p>
+      I am a coder and I code things.
+    </p>
+  </div>
+  <div
+    className="pt-5"
+  >
+    <img
+      alt="Github profile image"
+      height="200"
+      src=""
+      width="200"
+    />
+  </div>
+</div>
+`;
